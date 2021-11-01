@@ -1,7 +1,5 @@
 ### Hi there 👋, my name is Mohamed Essam
 
-![Profile views](https://gpvc.arturio.dev/MohamedEssam-900009)
-
 #### About me
 
 I'm Flutter Developer from Egypt.
@@ -26,7 +24,7 @@ I'm Flutter Developer from Egypt.
 - Object Oriented Programming (OOP) .
 - Programming Language (Dart - Java)
 
-- 🔭 I’m currently working on improving my skills as a mobile application developer.
+🔭 I’m currently working on improving my skills as a mobile application developer.
 
 #### My Repositories
 - E-Commerce App Link =>
