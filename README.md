@@ -39,7 +39,3 @@ I'm Flutter Developer from Egypt.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohamedEssam-900009) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]( https://www.linkedin.com/in/mohamed-essam95)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MostafaBastawy)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=MostafaBastawy)](https://github.com/MostafaBastawy)
