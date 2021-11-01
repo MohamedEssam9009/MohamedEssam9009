@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there 👋, my name is Mohamed Essam
 
 ![Profile views](https://gpvc.arturio.dev/MohamedEssam-900009)
