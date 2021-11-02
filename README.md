@@ -26,12 +26,5 @@ I'm Flutter Developer from Egypt.
 
 🔭 I’m currently working on improving my skills as a mobile application developer.
 
-#### My Repositories
-- E-Commerce App Link =>
-- Chat App Link =>
-- News App Link => https://github.com/MostafaBastawy/newsapp .
-- To-do App Link => https://github.com/MohamedEssam-900009/todo_app.git .
-- Calculator App Link => https://github.com/MohamedEssam-900009/calculator_app.git .
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MohamedEssam-900009) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]( https://www.linkedin.com/in/mohamed-essam95)
