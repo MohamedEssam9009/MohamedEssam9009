@@ -19,7 +19,7 @@ I'm Flutter Developer from Egypt.
 - Problem Solving
 - Data Structure & AAlgorithms .
 - Object Oriented Programming (OOP) .
-- Programming Language (Dart - Java)
+- Programming Language (Dart)
 
 🔭 I’m currently working on improving my skills as a mobile application developer.
 
