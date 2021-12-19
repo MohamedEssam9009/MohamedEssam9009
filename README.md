@@ -16,9 +16,6 @@ I'm Flutter Developer from Egypt.
 
 #### Skills
 
-- Design Pattern
-- SOLD Principles
-- Clean Code
 - Problem Solving
 - Data Structure & AAlgorithms .
 - Object Oriented Programming (OOP) .
