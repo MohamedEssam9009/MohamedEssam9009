@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
-<h3 align="center">A passionate mobile developer from India</h3>
+<h3 align="center">A passionate mobile developer from Egypt</h3>
 
 - 🌱 I’m currently learning **Flutter, Android**
 
