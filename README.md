@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **mohamed.essam900009@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1emUS4qi0jfXJVxRVHeYN85Z5fZ_jTiIn?usp=sharing](https://drive.google.com/drive/folders/1emUS4qi0jfXJVxRVHeYN85Z5fZ_jTiIn?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohamed-essam95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-essam95" height="30" width="40" /></a>
