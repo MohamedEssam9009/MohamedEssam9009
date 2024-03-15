@@ -1,28 +1,86 @@
-<h1 align="center">Hi 👋, I'm Mohamed Essam</h1>
-<h3 align="center">A Software Developer from Egypt</h3>
+<div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Essam!+😎;" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedessam-900009&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedessam-900009" /> </p>
+<br>
 
-- 🌱 I’m currently learning **Flutter**
+## 🙋‍♂️ About Me:
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedEssam-900009?tab=repositories](https://github.com/MohamedEssam-900009?tab=repositories)
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-- 💬 Ask me about **Flutter**
+- 🌱 I’m currently learning **Advanced Flutter**.
 
-- 📫 How to reach me **mohamed.essam900009@gmail.com**
+- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedEssam-900009?tab=repositories)**.
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1IEwZ7FmsB479ezPJRVPrzhc9DhiWaLKb?usp=sharing](https://drive.google.com/drive/folders/1IEwZ7FmsB479ezPJRVPrzhc9DhiWaLKb?usp=sharing)
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in//mohamed-essam95/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="/mohamed-essam95/" height="30" width="40" /></a>
+## 🚀 Languages and Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman" /><br>
+</div>
+
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 📊 My Stats:
+
+<p align="center">
+    <a href="https://github.com/MohamedEssam-900009/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MohamedEssam-900009's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEssam-900009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
 </p>
+<a href="https://github.com/MohamedEssam-900009/github-readme-stats"><img alt="MohamedEssam-900009's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam-900009&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/MohamedEssam-900009/github-readme-stats"><img alt="MohamedEssam-900009's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam-900009&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedessam-900009&show_icons=true&locale=en&layout=compact" alt="mohamedessam-900009" /></p>
+## 🤝 Connect With Me:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedessam-900009&show_icons=true&locale=en" alt="mohamedessam-900009" /></p>
+<div align="center">
+    <a href="https://www.linkedin.com/in/mohamed-essam95/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    </a>
+  <a href="mohamed.essam900009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+        <a href="https://mostaql.com/u/mohamed_essamCS/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+    <a href="www.youtube.com/@mohamedessam6870">
+    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+     </a>
+     <a href="https://t.me/mohamedessam900009">
+    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedessam-900009&" alt="mohamedessam-900009" /></p>
+<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+<br>
+
+## 💜 Views and Followers:
+
+<a href="https://github.com/MohamedEssam-900009/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=MohamedEssam-900009">
+</a>
+<a href="https://github.com/MohamedEssam-900009?tab=followers"><img src="https://img.shields.io/github/followers/MohamedEssam-900009?label=Followers&style=social" alt="GitHub Badge"></a>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
+</h3>
+
+<br/>
