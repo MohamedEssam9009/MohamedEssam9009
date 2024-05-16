@@ -66,18 +66,10 @@ Here are some of my notable projects:
 **Link:** [GitHub Repository URL]
 -->
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/mohamed-essam95/)
-- [Email](mailto:mohamed.essam900009@example.com)
+![Static Badge](https://img.shields.io/badge/linkedin---?style=for-the-badge&logo=linkedin&color=blue&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamed-essam95%2F)
+![Static Badge](https://img.shields.io/badge/Gmail---?style=for-the-badge&logo=gmail&color=white&link=mohamed.essam900009%40gmail.com)
+
 
 Feel free to reach out if you want to discuss Flutter development, potential collaborations, or any exciting opportunities. I'm always open to connecting with fellow developers and enthusiasts!
 
-## 🎯 Current Focus
-Currently, I am focused on:
-- Enhancing my skills in state management, testing, and CI/CD.
-- Exploring new Flutter libraries and tools.
-<!--
-## 📝 Blog Posts
-- [Blog Post 1](https://medium.com/@your-medium-username/your-blog-post-title)
-- [Blog Post 2](https://medium.com/@your-medium-username/your-blog-post-title)
--->
 Thanks for stopping by! 😊
