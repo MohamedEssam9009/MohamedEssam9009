@@ -5,10 +5,11 @@ I'm a passionate Flutter Developer with 1 year of experience in building high-qu
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Dart, Kotlin, Java,
-- **Frameworks:** Flutter, Firebase, GetX, Provider, Bloc
-- **Tools:** Android Studio, Xcode, VS Code, Git, CI/CD
+- **Frameworks:** Flutter  
+- **State Management:** GetX, Provider, Bloc 
+- **Tools:** Android Studio, Xcode, VS Code, Git, CI/CD, Figma
 - **Databases:** SQLite, Firestore, Hive, 
-- **Other Skills:** REST APIs, GraphQL, Agile/Scrum, UI/UX Design, Testing (Unit, Widget, Integration)
+- **Other Skills:** REST APIs, Firebase, Agile/Scrum, UI/UX Design, Testing (Unit, Widget, Integration)
 
 ## 🌟 Highlights
 - **Open Source Contributions:** Contributor to various open-source Flutter projects.
@@ -17,7 +18,7 @@ I'm a passionate Flutter Developer with 1 year of experience in building high-qu
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedEssam9009&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam9009&layout=compact&theme=radical)
-
+<!--
 ## 📂 Projects
 Here are some of my notable projects:
 
@@ -53,10 +54,10 @@ Here are some of my notable projects:
 **Description:** Brief description of what the project does and its key features.
 **Technologies Used:** Flutter, Bloc, SQLite
 **Link:** [GitHub Repository URL]
-
+-->
 ## 💬 Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
-- [Email](mailto:your-email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-essam95/)
+- [Email](mailto:mohamed.essam900009@example.com)
 
 Feel free to reach out if you want to discuss Flutter development, potential collaborations, or any exciting opportunities. I'm always open to connecting with fellow developers and enthusiasts!
 
