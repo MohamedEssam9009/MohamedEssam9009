@@ -1,84 +1,73 @@
-<div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed+Essam!+😎;" />
-</div>
+# Hi there, I'm Mohamed Essam 👋
 
-<br>
+## 🚀 About Me
+I'm a passionate Flutter Developer with 1 year of experience in building high-quality mobile applications. I specialize in creating efficient, scalable, and user-friendly apps using Flutter and Dart. My expertise extends to state management, testing, and deployment, ensuring that applications are robust and maintainable.
 
-## 🙋‍♂️ About Me:
+## 🛠️ Technologies & Tools
+- **Languages:** Dart, Kotlin, Java,
+- **Frameworks:** Flutter, Firebase, GetX, Provider, Bloc
+- **Tools:** Android Studio, Xcode, VS Code, Git, CI/CD
+- **Databases:** SQLite, Firestore, Hive, 
+- **Other Skills:** REST APIs, GraphQL, Agile/Scrum, UI/UX Design, Testing (Unit, Widget, Integration)
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
+## 🌟 Highlights
+- **Open Source Contributions:** Contributor to various open-source Flutter projects.
+- **Community Involvement:** Active member of the Flutter community, often participating in forums and meetups.
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedEssam9009?tab=repositories)**.
+## 📈 GitHub Stats
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedEssam9009&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam9009&layout=compact&theme=radical)
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+## 📂 Projects
+Here are some of my notable projects:
 
-## 🚀 Languages and Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
-    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,git" /><br>
-</div>
+### [Project 1]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, Firebase, GetX
+**Link:** [GitHub Repository URL]
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+### [Project 2]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, REST API, Provider
+**Link:** [GitHub Repository URL]
 
-## 📊 My Stats:
+### [Project 3]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, Bloc, SQLite
+**Link:** [GitHub Repository URL]
 
-<p align="center">
-    <a href="https://github.com/MohamedEssam9009/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MohamedEssam9009's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedEssam9009&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-<a href="https://github.com/MohamedEssam9009/github-readme-stats"><img alt="MohamedEssam9009's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MohamedEssam9009&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/MohamedEssam9009/github-readme-stats"><img alt="MohamedEssam9009's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedEssam9009&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+## 📂 UI Projects
+Here are some of my notable projects:
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+### [Project 1]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, Firebase, GetX
+**Link:** [GitHub Repository URL]
 
-## 🤝 Connect With Me:
+### [Project 2]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, REST API, Provider
+**Link:** [GitHub Repository URL]
 
-<div align="center">
-    <a href="https://www.linkedin.com/in/mohamed-essam95/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-    </a>
-  <a href="mohamed.essam900009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-        <a href="https://mostaql.com/u/mohamed_essamCS/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-    <a href="www.youtube.com/@mohamedessam6870">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/mohamedessam900009">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-</div>
+### [Project 3]
+**Description:** Brief description of what the project does and its key features.
+**Technologies Used:** Flutter, Bloc, SQLite
+**Link:** [GitHub Repository URL]
 
-<br>
-<div align="center">
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-</div>
-<br>
+## 💬 Let's Connect!
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-username/)
+- [Email](mailto:your-email@example.com)
 
-## 💜 Views and Followers:
+Feel free to reach out if you want to discuss Flutter development, potential collaborations, or any exciting opportunities. I'm always open to connecting with fellow developers and enthusiasts!
 
-<a href="https://github.com/MohamedEssam9009/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=MohamedEssam9009">
-</a>
-<a href="https://github.com/MohamedEssam9009?tab=followers"><img src="https://img.shields.io/github/followers/MohamedEssam9009?label=Followers&style=social" alt="GitHub Badge"></a>
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+❤️;+Shoot+me+a+message+on+Linkedin!;I'm+Long+Life+Learner">
-</h3>
-
-<br/>
+## 🎯 Current Focus
+Currently, I am focused on:
+- Enhancing my skills in [specific area, e.g., state management, testing, CI/CD].
+- Contributing to [specific project or organization].
+- Exploring new Flutter libraries and tools.
+<!--
+## 📝 Blog Posts
+- [Blog Post 1](https://medium.com/@your-medium-username/your-blog-post-title)
+- [Blog Post 2](https://medium.com/@your-medium-username/your-blog-post-title)
+-->
+Thanks for stopping by! 😊
