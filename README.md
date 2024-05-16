@@ -63,8 +63,7 @@ Feel free to reach out if you want to discuss Flutter development, potential col
 
 ## 🎯 Current Focus
 Currently, I am focused on:
-- Enhancing my skills in [specific area, e.g., state management, testing, CI/CD].
-- Contributing to [specific project or organization].
+- Enhancing my skills in state management, testing, and CI/CD.
 - Exploring new Flutter libraries and tools.
 <!--
 ## 📝 Blog Posts
