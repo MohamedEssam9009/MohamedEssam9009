@@ -3,19 +3,19 @@
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) ![](https://img.shields.io/badge/Java-Lover-yellowgreen) ![](https://img.shields.io/badge/Exp-2yrs-red)
 
 
-## 🙋‍♂️ About Me:
+## About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
+- I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
 
-- 👨‍💻 All of my projects are available at **[My Repository](https://github.com/MohamedEssam9009?tab=repositories)**.
+- All of my projects are available at **[My Repository](https://github.com/MohamedEssam9009?tab=repositories)**.
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,git" /><br>
 </div>
 
-## 🤝 Connect With Me:
+## Connect With Me:
 
 <div align="center">
     <a href="https://www.linkedin.com/in/mohamed-essam95/" target="_blank">
