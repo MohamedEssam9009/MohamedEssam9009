@@ -2,10 +2,7 @@
 
 ![](https://img.shields.io/badge/Mobile-Engineer-purple)  ![](https://img.shields.io/badge/Flutter-Expert-informational) ![](https://img.shields.io/badge/Dart-Lover-6B9CB0) 
 
-<!--![](https://img.shields.io/badge/Java-Lover-yellowgreen) ![](https://img.shields.io/badge/Exp-2yrs-red)-->
-
-
-- I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** .
+- I’m currently working as a **Mobile Application Developer 💻** |  **Flutter Developer 📱** .
 
 <hr>
 
@@ -20,6 +17,7 @@
 ## Connect With Me:
 
 
+![Static Badge](https://img.shields.io/badge/whatsapp-%20green?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F%2B201019664820)
 
 
 <hr>
@@ -27,18 +25,28 @@
 
 ## Samples from my projects  
 
-<!--### KIB Mobile
-Discover the all-new KIB app, offering seamless banking at your fingertips. Manage accounts, transfers, and payments, and enjoy a rewarding experience. Download now!
-Introducing the all-new, fully integrated KIB app, specifically designed to provide an unparalleled and seamless banking experience like no other. Get ready to embark on a journey of simplicity, where managing your financial matters becomes effortless and intuitive.
-With our new app, we have reimagined every aspect to deliver a seamless experience that puts banking services right at your fingertips.
-The ease of use and innovative design provides you with complete control over your financial matters.
+### Shop Mart
+Shop Mart is a Flutter-based mobile application for a shopping platform that allows users to browse products, add them to their favorites or cart, and purchase them using integrated payment methods. The app supports user authentication, social logins, product display via API, theme switching, and multilingual support.
+
 <p>
 
-  <a href="https://play.google.com/store/apps/details?id=eu.eleader.mobilebanking.kib&hl=en&gl=US" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a>
-<a href="https://apps.apple.com/kw/app/kib-mobile/id409840829" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
-
--->
+![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FShop-Mart)
 
 <hr>
+
+### Bookly 
+Bookly is a dynamic bookstore application built using Flutter, employing the BLoC (Business Logic Component) state management and the MVVM (Model-View-ViewModel) architecture to ensure a robust and scalable codebase. With a sleek and user-friendly interface, Bookly offers users an intuitive way to browse, search, and purchase books. Explore various genres, enjoy detailed book descriptions, and manage your reading list effortlessly.
+
+![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FBookly)
+
+<hr>
+
+### UpTodo
+This is a simple to-do app built with Flutter. It allows users to create, update, and delete tasks to manage their daily activities.
+
+![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FUpTodo)
+![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GOOGLE%20PLAY-%20blue?style=for-the-badge&logo=googleplay&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mohamed.uptodo)
+
+
 
 
