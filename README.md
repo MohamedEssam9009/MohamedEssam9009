@@ -47,6 +47,14 @@ This is a simple to-do app built with Flutter. It allows users to create, update
 ![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FUpTodo)
 ![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GOOGLE%20PLAY-%20blue?style=for-the-badge&logo=googleplay&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mohamed.uptodo)
 
+<hr>
+
+### Noteter
+Noteter is a simple note-taking application built with Flutter, providing an intuitive user interface for creating, viewing, updating, and deleting notes.
+
+![Static Badge](https://img.shields.io/badge/GIT%20IT%20IN%20GITHUB-black?style=for-the-badge&logo=github&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FNoteter)
+
+
 
 
 
