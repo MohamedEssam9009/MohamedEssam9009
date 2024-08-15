@@ -25,14 +25,6 @@
 
 ## Samples from my projects  
 
-### Shop Mart
-Shop Mart is a Flutter-based mobile application for a shopping platform that allows users to browse products, add them to their favorites or cart, and purchase them using integrated payment methods. The app supports user authentication, social logins, product display via API, theme switching, and multilingual support.
-
-<p>
-
-![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FShop-Mart)
-
-<hr>
 
 ### Bookly 
 Bookly is a dynamic bookstore application built using Flutter, employing the BLoC (Business Logic Component) state management and the MVVM (Model-View-ViewModel) architecture to ensure a robust and scalable codebase. With a sleek and user-friendly interface, Bookly offers users an intuitive way to browse, search, and purchase books. Explore various genres, enjoy detailed book descriptions, and manage your reading list effortlessly.
