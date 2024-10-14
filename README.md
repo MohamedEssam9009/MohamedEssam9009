@@ -39,16 +39,6 @@ This is a simple to-do app built with Flutter. It allows users to create, update
 ![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FUpTodo)
 ![Static Badge](https://img.shields.io/badge/GIT%20IT%20IN%20GOOGLE%20PLAY---?style=for-the-badge&logo=Google%20Play&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mohamed.uptodo)
 
-
-<hr>
-
-### News Cloud
-News Cloud Mobile App is a Flutter application that aggregates news articles from various sources and generates a visual representation of the most trending topics using word clouds.
-
-![Static Badge](https://img.shields.io/badge/GIT%20IT%20IN%20GITHUB-black?style=for-the-badge&logo=GitHub&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FNews-Cloud)
-![Static Badge](https://img.shields.io/badge/GIT%20IT%20IN%20GOOGLE%20PLAY---?style=for-the-badge&logo=Google%20Play&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mohamed.mynews)
-
-
 <hr>
 
 ### Noteter
