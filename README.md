@@ -27,7 +27,7 @@
 
 
 ### Bookly 
-Bookly is a dynamic bookstore application built using Flutter. It employs the BLoC (Business Logic Component) state management and the MVVM (Model-View-ViewModel) architecture to ensure a robust and scalable codebase. With a sleek and user-friendly interface, Bookly offers users an intuitive way to browse, search, and purchase books. Explore various genres, enjoy detailed book descriptions, and manage your reading list effortlessly.
+Welcome to Bookly, your one-stop online bookstore for book lovers everywhere! Whether you're an avid reader or just getting started, Bookly offers a diverse collection of ebooks across all genres, including fiction, non-fiction, self-help, romance, fantasy, and more.
 
 ![Static Badge](https://img.shields.io/badge/GET%20IT%20IN%20GITHUB-%20%20?style=for-the-badge&logo=GitHub&color=black&link=https%3A%2F%2Fgithub.com%2FMohamedEssam9009%2FBookly)
 ![Static Badge](https://img.shields.io/badge/%20-Get%20It%20In%20Google%20Play-brightgreen?style=for-the-badge&logo=googleplay&link=https%3A%2F%2Fplay.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.mohemed.bookly)
