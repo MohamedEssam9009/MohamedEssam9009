@@ -18,6 +18,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/whatsapp-%20green?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F%2B201019664820)
+![Static Badge](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamedessam9%2F)
 
 
 <hr>
