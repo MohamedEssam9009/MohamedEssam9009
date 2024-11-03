@@ -20,7 +20,11 @@
 <div align="center">
   <img src="https://img.shields.io/badge/whatsapp-%20green?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F%2B201019664820" alt="WhatsApp Badge" />
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamedessam9%2F" alt="LinkedIn Badge" />
+  <a href="mailto:mohamed.essam900009@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
 </div>
+
 
 <hr>
 
