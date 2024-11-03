@@ -7,7 +7,7 @@
 <hr>
 
 ## Languages and Tools:
-<div align="center">
+<div align="start">
     <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,java" />
     <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,git" /><br>
 </div>
@@ -17,7 +17,7 @@
 ## Connect With Me:
 
 
-<div align="center">
+<div align="start">
   <img src="https://img.shields.io/badge/whatsapp-%20green?style=for-the-badge&logo=whatsapp&link=https%3A%2F%2Fwa.me%2F%2B201019664820" alt="WhatsApp Badge" />
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmohamedessam9%2F" alt="LinkedIn Badge" />
   <a href="mailto:mohamed.essam900009@gmail.com">
